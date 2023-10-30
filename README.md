@@ -1,5 +1,10 @@
 # Hello and Welcome!
 
+Welcome to my GitHub profile! Feel free to connect anytime!
 
+Some examples of my work:
 
-### ecocuzzo4.github.io
+1. Animal Shelter Data
+2. 
+
+#### Link: ecocuzzo4.github.io
