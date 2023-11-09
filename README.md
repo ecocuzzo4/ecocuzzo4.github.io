@@ -12,8 +12,8 @@ Biz leader learning to code
 
 Some examples of my work:
 
-1. **Animal Shelter Data**: https://github.com/ecocuzzo4/Final-Project-Austin-Animal-Shelter
-2. **Baseball Analysis**:
+1. **Animal Shelter Data Analysis**: https://github.com/ecocuzzo4/Final-Project-Austin-Animal-Shelter
+2. **Cereal Analysis**:
 
 Feel free to reach out to me at anytime! 
 
