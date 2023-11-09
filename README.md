@@ -3,7 +3,7 @@
 Hi 👋 My name is Emilee and welcome to my GitHub profile!
 
 Consultant | Professor | Operations + Strategy 
-Biz leader learning code 
+Biz leader learning to code 
 
 * 🌍  I'm based in Boston
 * 🧠  I'm learning SQL
@@ -13,7 +13,7 @@ Biz leader learning code
 Some examples of my work:
 
 1. **Animal Shelter Data**: https://github.com/ecocuzzo4/Final-Project-Austin-Animal-Shelter
-2. 
+2. **Baseball Analysis**:
 
 Feel free to reach out to me at anytime! 
 
