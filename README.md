@@ -15,6 +15,6 @@ Some examples of my work:
 1. **Animal Shelter Data Analysis**: https://github.com/ecocuzzo4/Final-Project-Austin-Animal-Shelter
 2. **Cereal Analysis**: https://github.com/ecocuzzo4/80-Cereals
 
-Feel free to reach out to me at anytime! 
+Feel free to reach out to me at anytime! I love collaborating on projects!
 
 #### Link: ecocuzzo4.github.io
