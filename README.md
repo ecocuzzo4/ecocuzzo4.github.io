@@ -5,7 +5,7 @@ Hi 👋 My name is Emilee and welcome to my GitHub profile!
 Consultant | Professor | Operations + Strategy 
 
 
-Biz leader learning to code 
+Biz leader learning to code! 
 
 * 🌍  I'm based in Boston
 * 🧠  I'm learning SQL
