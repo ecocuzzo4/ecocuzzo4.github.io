@@ -2,13 +2,13 @@
 
 Hi 👋 My name is Emilee and welcome to my GitHub profile!
 
-Consultant | Professor | Operations + Strategy 
+Director of Strategy & Operations | Professor | Consultant | Analytics & AI
 
 
 Biz leader learning to code! 
 
 * 🌍  I'm based in Boston
-* 🧠  I'm learning SQL
+* 🧠  I'm using AI to supercharge to coding growth
 * 🤝  I'm open to collaborating on interesting projects related to pets, caretaking, women's sports, baseball, and education.
 *  ⚡   Big musical goer and a huge women's soccer fan
 
